@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+6000020122033,市川市,https://www.city.ichikawa.lg.jp/,Asia/Tokyo,ja,047-306-7211

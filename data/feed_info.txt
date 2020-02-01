@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang
+永江英武,http://www.eagan.jp/nagae/,ja
