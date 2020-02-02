@@ -1,4 +1,4 @@
-trip_id,trip_sequence,stop_id,arrival_time,departure_time
+trip_id,stop_sequence,stop_id,arrival_time,departure_time
 3WA01,1,314A,6:30:00,6:30:00
 3WA01,2,315A,6:33:00,6:33:00
 3WA01,3,316A,6:34:00,6:34:00
